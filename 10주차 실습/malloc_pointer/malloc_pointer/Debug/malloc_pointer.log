@@ -1,0 +1,4 @@
+﻿  Proj2.c
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\10주차 실습\malloc_pointer\malloc_pointer\Proj2.c(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\10주차 실습\malloc_pointer\malloc_pointer\Proj2.c(23,21): warning C4018: '<': signed/unsigned mismatch
+  malloc_pointer.vcxproj -> C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\10주차 실습\malloc_pointer\Debug\malloc_pointer.exe

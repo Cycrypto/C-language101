@@ -1,0 +1,4 @@
+﻿  Project.c
+C:\Users\jh01l\OneDrive\바탕 화면\KPU\1학년\2 학기\프로그래밍\4주차\For-While\For-While\Project.c(142,9): warning C4033: 'rec_func' must return a value
+C:\Users\jh01l\OneDrive\바탕 화면\KPU\1학년\2 학기\프로그래밍\4주차\For-While\For-While\Project.c(149): warning C4715: 'rec_func': not all control paths return a value
+  For-While.vcxproj -> C:\Users\jh01l\OneDrive\바탕 화면\KPU\1학년\2 학기\프로그래밍\4주차\For-While\Debug\For-While.exe

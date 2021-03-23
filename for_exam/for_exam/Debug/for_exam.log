@@ -1,0 +1,3 @@
+﻿  exam_test.c
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\for_exam\for_exam\exam_test.c(15,10): warning C4047: '=': 'int (*)[2]' differs in levels of indirection from 'int *'
+  for_exam.vcxproj -> C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\for_exam\Debug\for_exam.exe

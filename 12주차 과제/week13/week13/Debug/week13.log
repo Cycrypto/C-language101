@@ -1,0 +1,10 @@
+﻿  test.c
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\12주차 과제\week13\week13\test.c(24,24): warning C4477: 'fscanf' : format string '%ld' requires an argument of type 'long *', but variadic argument 1 has type '__int64 *'
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\12주차 과제\week13\week13\test.c(24,24): message : consider using '%lld' in the format string
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\12주차 과제\week13\week13\test.c(24,24): message : consider using '%I64d' in the format string
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\12주차 과제\week13\week13\test.c(24,67): warning C4474: 'fscanf' : too many arguments passed for format string
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\12주차 과제\week13\week13\test.c(24,67): message : placeholders and their parameters expect 4 variadic arguments, but 5 were provided
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\12주차 과제\week13\week13\test.c(29,10): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type '__int64'
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\12주차 과제\week13\week13\test.c(29,10): message : consider using '%lld' in the format string
+C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\12주차 과제\week13\week13\test.c(29,10): message : consider using '%I64d' in the format string
+  week13.vcxproj -> C:\Users\jh01l\Desktop\KPU\1학년\2 학기\프로그래밍\12주차 과제\week13\Debug\week13.exe
